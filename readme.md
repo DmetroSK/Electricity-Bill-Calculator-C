@@ -15,7 +15,7 @@ C
 
 <br>
 You can enter your name , month and units to calculate your electricity bill.
-
+<br>
 <br>
 
 ![](header.png)
